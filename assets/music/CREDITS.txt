@@ -1,0 +1,5 @@
+Tracks supplied by the designer from Pixabay (Pixabay Content License; check before shipping):
+- blocky.mp3  "Game Minecraft Gaming Background Music" by maksymmalko (Pixabay 402451)
+- lumen.mp3   "Video Games" by echoes_of_lumen (Pixabay 584898)
+- cabin.mp3   "Cabin Video Game Theme" by giri_is (Pixabay 350164)
+The earlier CC0 tracks are kept in _old/ and are no longer in the prototype.

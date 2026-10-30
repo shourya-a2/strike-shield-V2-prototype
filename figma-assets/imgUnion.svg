@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="35.6706" height="28.1" viewBox="0 0 35.6706 28.1" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Union" filter="url(#filter0_f_0_1746)">
+<path d="M31.2751 3.46697C31.7212 3.17347 32.3148 3.49362 32.3151 4.02751V18.7131C32.3151 18.8802 32.2528 19.0416 32.1403 19.1652L27.5378 24.2209C27.3368 24.4417 27.0139 24.5028 26.7458 24.3713L18.6022 20.3761C18.4158 20.2846 18.2816 20.1118 18.2399 19.9084L18.2204 19.8166L12.0163 24.6047C11.77 24.7947 11.4249 24.7908 11.1833 24.5949L4.67157 19.3156C4.53016 19.201 4.44125 19.0331 4.42547 18.8517L3.35809 6.59001C3.31506 6.09533 3.80609 5.72638 4.26922 5.90544L10.2839 8.23064C10.395 8.2736 10.5158 8.28685 10.6335 8.26775L15.695 7.44548C15.678 7.06551 15.9867 6.73671 16.3815 6.74626L24.8913 6.95232C25.5742 6.96884 26.2464 6.77602 26.8171 6.40056L31.2751 3.46697Z" fill="url(#paint0_linear_0_1746)"/>
+</g>
+<defs>
+<filter id="filter0_f_0_1746" x="7.00238e-08" y="-2.02999e-08" width="35.6706" height="28.1" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1.67773" result="effect1_foregroundBlur_0_1746"/>
+</filter>
+<linearGradient id="paint0_linear_0_1746" x1="17.0136" y1="24.909" x2="17.0136" y2="3.19369" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7DF200"/>
+<stop offset="1" stop-color="#B4F372"/>
+</linearGradient>
+</defs>
+</svg>
